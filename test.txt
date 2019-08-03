@@ -12,3 +12,5 @@ insert into financial_adjust_record VALUES(3,29124,'菜鸟仓配',6251490,NULL,2
 update financial_adjust_record set user_id = 0 where id = 1 or 3;
 update financial_adjust_record set user_name = '拱墅十六部' where id = 2;
 update financial_adjust_record set user_id = 6258014 where id = 2;
+#brother
+#father
