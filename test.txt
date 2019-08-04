@@ -14,3 +14,6 @@ update financial_adjust_record set user_name = '拱墅十六部' where id = 2;
 update financial_adjust_record set user_id = 6258014 where id = 2;
 #sister
 #mather
+#brother
+#father
+
